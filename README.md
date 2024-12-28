@@ -110,5 +110,5 @@ Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your web browser.
 
 For questions or collaboration opportunities, feel free to reach out:  
  
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/jaweria-asif-khan-55b931244)   
+- **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/jaweria-asif-khan-55b931244)   
 
