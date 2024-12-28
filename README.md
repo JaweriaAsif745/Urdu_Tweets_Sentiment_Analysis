@@ -41,21 +41,43 @@ This repository provides a comprehensive solution for sentiment analysis in the 
 
 ---
 
-## 🛠️ Setup Instructions  
+To set up your project for the **Urdu Tweets Sentiment Analysis** using Flask, follow these steps:
 
-### Clone the Repository  
-```bash  
-(https://github.com/JaweriaAsif745/Urdu_Tweets_Sentiment_Analysis.git)```  
+### 🛠️ Setup Instructions
 
-### Install Dependencies  
-```bash  
-pip install -r requirements.txt  
-```  
+#### 1. **Clone the Repository**
+To get the project files, you need to clone the repository. Run the following command in your terminal:
 
-### Run the Flask Application  
-```bash  
-python App.py  
-```  
+```bash
+git clone https://github.com/JaweriaAsif745/Urdu_Tweets_Sentiment_Analysis.git
+```
+
+This will create a local copy of the repository on your machine.
+
+#### 2. **Install Dependencies**
+After cloning the repository, navigate into the project folder:
+
+```bash
+cd Urdu_Tweets_Sentiment_Analysis
+```
+
+Next, install the required Python dependencies by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install all the necessary libraries (such as Flask, scikit-learn, etc.) for the application to run.
+
+#### 3. **Run the Flask Application**
+To start the Flask server, run the following command:
+
+```bash
+python App.py
+```
+
+This will launch the Flask app. By default, the app will run on `http://127.0.0.1:5000/`.
+
 
 ### Access the Application  
 Open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your web browser.  
