@@ -45,8 +45,7 @@ This repository provides a comprehensive solution for sentiment analysis in the 
 
 ### Clone the Repository  
 ```bash  
-git clone https://github.com/YourUsername/Urdu-Sentiment-Analysis.git  
-```  
+(https://github.com/JaweriaAsif745/Urdu_Tweets_Sentiment_Analysis.git)```  
 
 ### Install Dependencies  
 ```bash  
